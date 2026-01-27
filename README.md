@@ -14,5 +14,6 @@ Explicación de los conceptos fundamentales y operaciones básicas, con ejemplos
 
 * [Ejercicios con señales](https://github.com/paul-roserom/Procesamiento_digital_senales/blob/main/SEMANA_1/ejercicios_se%C3%B1ales.ipynb)
 * [Ejercicios con imágenes](https://github.com/paul-roserom/Procesamiento_digital_senales/blob/main/SEMANA_1/ejercicios_imagenes.ipynb)
+* [Lectura de datos EMG](https://github.com/paul-roserom/Procesamiento_digital_senales/blob/main/SEMANA_1/lectura_datos_emg.ipynb)
 
 ## SEMANA 2: Filtrados y análisis de señales e imágenes
